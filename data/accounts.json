@@ -1,0 +1,10 @@
+{
+  "8195f92e-66bd-48cf-ae2b-aa7b235ea200": {
+    "id": "8195f92e-66bd-48cf-ae2b-aa7b235ea200",
+    "customerId": "af70c511-53d1-4df4-a49f-6ddf6b8db354",
+    "accountName": "Savings Account",
+    "balance": 1500,
+    "createdAt": "2024-12-19T08:35:35.330Z",
+    "updatedAt": "2024-12-19T08:35:43.294Z"
+  }
+}

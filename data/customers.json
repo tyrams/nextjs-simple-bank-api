@@ -1,0 +1,11 @@
+{
+  "af70c511-53d1-4df4-a49f-6ddf6b8db354": {
+    "id": "af70c511-53d1-4df4-a49f-6ddf6b8db354",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "john.smith@example.com",
+    "phone": "1234567890",
+    "createdAt": "2024-12-19T08:27:47.095Z",
+    "updatedAt": "2024-12-19T08:35:43.293Z"
+  }
+}
